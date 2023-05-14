@@ -1,0 +1,16 @@
+-	Các bước tạo Bot Telegram API:
+1.	Vào Telegram tìm kiếm @BotFather: 
+ - Có biểu tượng hình robot và tích trắng
+2.	Chọn vào và chat: “/start” để bắt đầu.
+-	Hiện ra các lệnh hướng dẫn liên quan đến Bot.
+3.	Chat “/newbot” để bắt đầu tạo bot.
+4.	@BotFather sẽ cần phải đặt tên cho bot:
+-	Chat tên bot cần đặt và gửi . Vd: “TNTest”
+5.	@BotFather cần có thêm Username cho con bot vừa đặt tên:
+-	Chat username cần đặt (Lưu ý: đặt Username cần có chữ bot ở cuối) VD: “TnghiaTestBot”
+6.	Sau khi xong thì bot đã được tạo và hiện ra một mã Token định danh cho con bot đó:
+ 
+	You can use this token to access HTTP API:
+	5790085798:AAFKGyj6T2Y3k2I_aLpRUWxMMpebM7****
+
+	For a description of the Bot API, see this page: https://core.telegram.org/bots/api
